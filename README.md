@@ -42,7 +42,7 @@ Predict **Yearly Amount Spent** by e-commerce customers using behavioral and mem
   ![Evaluation Plot](images/Evaluation%20of%20prediction%20model.png)
 
 - Residual distribution:  
-  ![Residuals](images/Resdiual%20count.png)
+  ![Residuals](images/Resdiual%20counts.png)
 
 - Q-Q plot for residual normality:  
   ![Probability Plot](images/Probability%20plot.png)
